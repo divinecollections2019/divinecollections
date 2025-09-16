@@ -107,13 +107,6 @@ function displayProducts(products) {
       }
     });
 
-    /// ==== Preload the first 10 variant images (safe + fast) ====
-    product.variants.slice(0, 2).forEach((v) => {
-      const imgPreload = new Image();
-      imgPreload.src = v.image;
-      console.log("Preloaded:", v.image);
-    });
-
     updateVariant();
   });
 }
