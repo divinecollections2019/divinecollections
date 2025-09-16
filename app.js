@@ -49,7 +49,7 @@ function displayProducts(products) {
 
     card.innerHTML = `
       <div class="variant-slider">
-        <img src="${defaultImage}" alt="${product.name}" class="product-img" />
+        <img src="${defaultImage}" alt="${product.name}" class="product-img" loading="lazy" />
         <div class="variant-controls">
           <button type="button" class="variant-btn prev">&#10094;</button>
           <button type="button" class="variant-btn next">&#10095;</button>
@@ -81,9 +81,18 @@ function displayProducts(products) {
       addToCartBtn.dataset.color = variant.color;
       prevBtn.disabled = currentVariant === 0;
       nextBtn.disabled = currentVariant === product.variants.length - 1;
+
+      // === Preload the *next* variant in background ===
+      const nextIndex = currentVariant + 1;
+      if (nextIndex < product.variants.length) {
+        const preloadImg = new Image();
+        preloadImg.src = product.variants[nextIndex].image;
+      }
     }
 
     prevBtn.addEventListener("click", () => {
+      console.log("Prev clicked"); //debug
+
       if (currentVariant > 0) {
         currentVariant--;
         updateVariant();
@@ -91,10 +100,18 @@ function displayProducts(products) {
     });
 
     nextBtn.addEventListener("click", () => {
+      console.log("Next clicked"); //debug
       if (currentVariant < product.variants.length - 1) {
         currentVariant++;
         updateVariant();
       }
+    });
+
+    /// ==== Preload the first 10 variant images (safe + fast) ====
+    product.variants.slice(0, 2).forEach((v) => {
+      const imgPreload = new Image();
+      imgPreload.src = v.image;
+      console.log("Preloaded:", v.image);
     });
 
     updateVariant();
