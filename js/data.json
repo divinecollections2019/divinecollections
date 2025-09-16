@@ -1,0 +1,2119 @@
+{
+  "bags": {
+    "small": [
+      {
+        "name": "Small Sized Bag - Model 1",
+        "category": "bags",
+        "subcategory": "small",
+        "price": 7000,
+        "variants": [
+          { "color": "white", "image": "/images/bags/small/small-1-white.jpg" },
+          { "color": "black", "image": "/images/bags/small/small-1-black.jpg" },
+          { "color": "brown", "image": "/images/bags/small/small-1-brown.jpg" },
+          {
+            "color": "darkbrown",
+            "image": "/images/bags/small/small-1-darkbrown.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/small/small-1-pink.jpg" }
+        ]
+      },
+      {
+        "name": "Small Sized Bag - Model 2",
+        "category": "bags",
+        "subcategory": "small",
+        "price": 7000,
+        "variants": [
+          { "color": "pink", "image": "/images/bags/small/small-2-pink.jpg" },
+          { "color": "black", "image": "/images/bags/small/small-2-black.jpg" },
+          { "color": "brown", "image": "/images/bags/small/small-2-brown.jpg" },
+          { "color": "gold", "image": "/images/bags/small/small-2-gold.jpg" },
+          {
+            "color": "silver",
+            "image": "/images/bags/small/small-2-silver.jpg"
+          },
+          { "color": "white", "image": "/images/bags/small/small-2-white.jpg" },
+          { "color": "wine", "image": "/images/bags/small/small-2-wine.jpg" }
+        ]
+      },
+      {
+        "name": "Small Sized Bag - Model 3",
+        "category": "bags",
+        "subcategory": "small",
+        "price": 7000,
+        "variants": [
+          { "color": "green", "image": "/images/bags/small/small-3-green.jpg" },
+          { "color": "black", "image": "/images/bags/small/small-3-black.jpg" },
+          { "color": "pink", "image": "/images/bags/small/small-3-pink.jpg" },
+          { "color": "white", "image": "/images/bags/small/small-3-white.jpg" }
+        ]
+      },
+      {
+        "name": "Small Sized Bag - Model 4",
+        "category": "bags",
+        "subcategory": "small",
+        "price": 7000,
+        "variants": [
+          { "color": "black", "image": "/images/bags/small/small-4-black.jpg" },
+          { "color": "brown", "image": "/images/bags/small/small-4-brown.jpg" },
+          {
+            "color": "lightgray",
+            "image": "/images/bags/small/small-4-lightgray.jpg"
+          },
+          { "color": "red", "image": "/images/bags/small/small-4-red.jpg" },
+          { "color": "white", "image": "/images/bags/small/small-4-white.jpg" }
+        ]
+      },
+      {
+        "name": "Small Sized Bag - Model 5",
+        "category": "bags",
+        "subcategory": "small",
+        "price": 7000,
+        "variants": [
+          { "color": "black", "image": "/images/bags/small/small-5-black.jpg" },
+          { "color": "white", "image": "/images/bags/small/small-5-white.jpg" }
+        ]
+      },
+      {
+        "name": "Small Sized Bag - Model 6",
+        "category": "bags",
+        "subcategory": "small",
+        "price": 7000,
+        "variants": [
+          { "color": "blue", "image": "/images/bags/small/small-6-blue.jpg" },
+          { "color": "green", "image": "/images/bags/small/small-6-green.jpg" },
+          {
+            "color": "yellow",
+            "image": "/images/bags/small/small-6-yellow.jpg"
+          }
+        ]
+      }
+    ],
+
+    "medium": [
+      {
+        "name": "Medium Sized Bag - Model 1",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "black", "image": "/images/bags/medium/midi-1-black.jpg" },
+          {
+            "color": "carton",
+            "image": "/images/bags/medium/midi-1-carton.jpg"
+          },
+          {
+            "color": "light-blue",
+            "image": "/images/bags/medium/midi-1-lightblue.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/medium/midi-1-pink.jpg" },
+          { "color": "red", "image": "/images/bags/medium/midi-1-red.jpg" },
+          { "color": "white", "image": "/images/bags/medium/midi-1-white.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 2",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "black", "image": "/images/bags/medium/midi-2-black.jpg" },
+          { "color": "brown", "image": "/images/bags/medium/midi-2-brown.jpg" },
+          {
+            "color": "coffee",
+            "image": "/images/bags/medium/midi-2-coffee.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/medium/midi-2-pink.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 3",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "black", "image": "/images/bags/medium/midi-3-black.jpg" },
+          { "color": "blue", "image": "/images/bags/medium/midi-3-blue.jpg" },
+          { "color": "green", "image": "/images/bags/medium/midi-3-green.jpg" },
+          {
+            "color": "orange",
+            "image": "/images/bags/medium/midi-3-orange.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/medium/midi-3-pink.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 4",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "black", "image": "/images/bags/medium/midi-4-black.jpg" },
+          { "color": "brown", "image": "/images/bags/medium/midi-4-brown.jpg" },
+          {
+            "color": "carton",
+            "image": "/images/bags/medium/midi-4-carton.jpg"
+          },
+          { "color": "cream", "image": "/images/bags/medium/midi-4-cream.jpg" },
+          {
+            "color": "dark-green",
+            "image": "/images/bags/medium/midi-4-darkgreen.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/medium/midi-4-pink.jpg" },
+          {
+            "color": "skyblue",
+            "image": "/images/bags/medium/midi-4-skyblue.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 5",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "black", "image": "/images/bags/medium/midi-5-black.jpg" },
+          { "color": "blue", "image": "/images/bags/medium/midi-5-blue.jpg" },
+          { "color": "brown", "image": "/images/bags/medium/midi-5-brown.jpg" },
+          {
+            "color": "coffee",
+            "image": "/images/bags/medium/midi-5-coffee.jpg"
+          },
+          { "color": "cream", "image": "/images/bags/medium/midi-5-cream.jpg" },
+          { "color": "red", "image": "/images/bags/medium/midi-5-red.jpg" }
+        ]
+      },
+
+      {
+        "name": "Medium Sized Bag - Model 6",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "orange",
+            "image": "/images/bags/medium/midi-6-orange.jpg"
+          },
+          { "color": "green", "image": "/images/bags/medium/midi-6-green.jpg" },
+          {
+            "color": "carton",
+            "image": "/images/bags/medium/midi-6-carton.jpg"
+          },
+          { "color": "black", "image": "/images/bags/medium/midi-6-black.jpg" },
+          { "color": "white", "image": "/images/bags/medium/midi-6-white.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 7",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "offwhite",
+            "image": "/images/bags/medium/midi-7-offwhite.jpg"
+          },
+          { "color": "black", "image": "/images/bags/medium/midi-7-black.jpg" },
+          { "color": "brown", "image": "/images/bags/medium/midi-7-brown.jpg" },
+          {
+            "color": "carton",
+            "image": "/images/bags/medium/midi-7-carton.jpg"
+          },
+          {
+            "color": "lightgreen",
+            "image": "/images/bags/medium/midi-7-lightgreen.jpg"
+          },
+          { "color": "lemon", "image": "/images/bags/medium/midi-7-lemon.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 8",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "yellow",
+            "image": "/images/bags/medium/midi-8-yellow.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/medium/midi-8-pink.jpg" },
+          { "color": "brown", "image": "/images/bags/medium/midi-8-brown.jpg" },
+          { "color": "black", "image": "/images/bags/medium/midi-8-black.jpg" },
+          { "color": "blue", "image": "/images/bags/medium/midi-8-blue.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 9",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "khaki", "image": "/images/bags/medium/midi-9-khaki.jpg" },
+          { "color": "cream", "image": "/images/bags/medium/midi-9-cream.jpg" },
+          { "color": "blue", "image": "/images/bags/medium/midi-9-blue.jpg" },
+          { "color": "black", "image": "/images/bags/medium/midi-9-black.jpg" },
+          {
+            "color": "black&cream",
+            "image": "/images/bags/medium/midi-9-black&cream.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 10",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "gold", "image": "/images/bags/medium/midi-10-gold.jpg" },
+          {
+            "color": "silver",
+            "image": "/images/bags/medium/midi-10-silver.jpg"
+          },
+          {
+            "color": "white",
+            "image": "/images/bags/medium/midi-10-white.jpg"
+          },
+          { "color": "black", "image": "/images/bags/medium/midi-10-black.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 11",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "cream",
+            "image": "/images/bags/medium/midi-11-cream.jpg"
+          },
+          { "color": "black", "image": "/images/bags/medium/midi-11-black.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 12",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "red", "image": "/images/bags/medium/midi-12-red.jpg" },
+          {
+            "color": "white",
+            "image": "/images/bags/medium/midi-12-white.jpg"
+          },
+          {
+            "color": "lightbrown",
+            "image": "/images/bags/medium/midi-12-lightbrown.jpg"
+          },
+          {
+            "color": "lightblue",
+            "image": "/images/bags/medium/midi-12-lightblue.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/medium/midi-12-brown.jpg"
+          },
+          { "color": "black", "image": "/images/bags/medium/midi-12-black.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 13",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "lightpink",
+            "image": "/images/bags/medium/midi-13-lightpink.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/medium/midi-13-pink.jpg" },
+          {
+            "color": "orange",
+            "image": "/images/bags/medium/midi-13-orange.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-13-black.jpg"
+          },
+          { "color": "green", "image": "/images/bags/medium/midi-13-green.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 14",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "gold", "image": "/images/bags/medium/midi-14-gold.jpg" },
+          {
+            "color": "brown",
+            "image": "/images/bags/medium/midi-14-brown.jpg"
+          },
+          {
+            "color": "coffee",
+            "image": "/images/bags/medium/midi-14-coffee.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-14-black.jpg"
+          },
+          {
+            "color": "lightpink",
+            "image": "/images/bags/medium/midi-14-lightpink.jpg"
+          },
+          { "color": "wine", "image": "/images/bags/medium/midi-14-wine.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 15",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "coffee",
+            "image": "/images/bags/medium/midi-15-coffee.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-15-black.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/medium/midi-15-pink.jpg" },
+          { "color": "red", "image": "/images/bags/medium/midi-15-red.jpg" },
+          { "color": "white", "image": "/images/bags/medium/midi-15-white.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 16",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-16-black.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/medium/midi-16-brown.jpg"
+          },
+          { "color": "gold", "image": "/images/bags/medium/midi-16-gold.jpg" },
+          {
+            "color": "orange",
+            "image": "/images/bags/medium/midi-16-orange.jpg"
+          },
+          { "color": "red", "image": "/images/bags/medium/midi-16-red.jpg" },
+          { "color": "white", "image": "/images/bags/medium/midi-16-white.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 17",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "purple",
+            "image": "/images/bags/medium/midi-17-purple.jpg"
+          },
+          {
+            "color": "white&gray",
+            "image": "/images/bags/medium/midi-17-white&gray.jpg"
+          },
+          {
+            "color": "white",
+            "image": "/images/bags/medium/midi-17-white.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/medium/midi-17-pink.jpg" },
+          {
+            "color": "lightgreen",
+            "image": "/images/bags/medium/midi-17-lightgreen.jpg"
+          },
+          {
+            "color": "lightblue",
+            "image": "/images/bags/medium/midi-17-lightblue.jpg"
+          },
+          { "color": "green", "image": "/images/bags/medium/midi-17-green.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 18",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-18-black.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/medium/midi-18-brown.jpg"
+          },
+          {
+            "color": "white",
+            "image": "/images/bags/medium/midi-18-white.jpg"
+          },
+          { "color": "wine", "image": "/images/bags/medium/midi-18-wine.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 19",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "red", "image": "/images/bags/medium/midi-19-red.jpg" },
+          { "color": "blue", "image": "/images/bags/medium/midi-19-blue.jpg" },
+          { "color": "grey", "image": "/images/bags/medium/midi-19-grey.jpg" },
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-19-black.jpg"
+          },
+          {
+            "color": "lightpink",
+            "image": "/images/bags/medium/midi-19-lightpink.jpg"
+          },
+          { "color": "white", "image": "/images/bags/medium/midi-19-white.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 20",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-20-black.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/medium/midi-20-brown.jpg"
+          },
+          {
+            "color": "lightblue",
+            "image": "/images/bags/medium/midi-20-lightblue.jpg"
+          },
+          {
+            "color": "white&brown",
+            "image": "/images/bags/medium/midi-20-white&brown.jpg"
+          },
+          { "color": "white", "image": "/images/bags/medium/midi-20-white.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 21",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-21-black.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/medium/midi-21-brown.jpg"
+          },
+          {
+            "color": "cream",
+            "image": "/images/bags/medium/midi-21-cream.jpg"
+          },
+          {
+            "color": "darkorange",
+            "image": "/images/bags/medium/midi-21-darkorange.jpg"
+          },
+          { "color": "red", "image": "/images/bags/medium/midi-21-red.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 22",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          { "color": "blue", "image": "/images/bags/medium/midi-22-blue.jpg" },
+          {
+            "color": "brown",
+            "image": "/images/bags/medium/midi-22-brown.jpg"
+          },
+          {
+            "color": "green",
+            "image": "/images/bags/medium/midi-22-green.jpg"
+          },
+          {
+            "color": "orange",
+            "image": "/images/bags/medium/midi-22-orange.jpg"
+          },
+          { "color": "red", "image": "/images/bags/medium/midi-22-red.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 23",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "black&cream",
+            "image": "/images/bags/medium/midi-23-black&cream.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-23-black.jpg"
+          },
+          {
+            "color": "brown&cream",
+            "image": "/images/bags/medium/midi-23-brown&cream.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 24",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-24-black.jpg"
+          },
+          {
+            "color": "darkbrown",
+            "image": "/images/bags/medium/midi-24-darkbrown.jpg"
+          },
+          {
+            "color": "lightbrown",
+            "image": "/images/bags/medium/midi-24-lightbrown.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 25",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "coffee",
+            "image": "/images/bags/medium/midi-25-coffee.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-25-black.jpg"
+          },
+          { "color": "gray", "image": "/images/bags/medium/midi-25-gray.jpg" },
+          {
+            "color": "lightblue",
+            "image": "/images/bags/medium/midi-25-lightblue.jpg"
+          },
+          {
+            "color": "green",
+            "image": "/images/bags/medium/midi-25-green.jpg"
+          },
+          {
+            "color": "orange",
+            "image": "/images/bags/medium/midi-25-orange.jpg"
+          },
+          { "color": "wine", "image": "/images/bags/medium/midi-25-wine.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 26",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-26-black.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/medium/midi-26-brown.jpg"
+          },
+          {
+            "color": "coffee",
+            "image": "/images/bags/medium/midi-26-coffee.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 27",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "lightblue",
+            "image": "/images/bags/medium/midi-27-lightblue.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/medium/midi-27-brown.jpg"
+          },
+          { "color": "black", "image": "/images/bags/medium/midi-27-black.jpg" }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 28",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-28-black.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/medium/midi-28-brown.jpg"
+          },
+          {
+            "color": "lightblue",
+            "image": "/images/bags/medium/midi-28-lightblue.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Medium Sized Bag - Model 29",
+        "category": "bags",
+        "subcategory": "medium",
+        "price": 8500,
+        "variants": [
+          {
+            "color": "brownshade",
+            "image": "/images/bags/medium/midi-29-brownshade.jpg"
+          },
+          {
+            "color": "lightbrown",
+            "image": "/images/bags/medium/midi-29-lightbrown.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/bags/medium/midi-29-black.jpg"
+          },
+          {
+            "color": "lightblue",
+            "image": "/images/bags/medium/midi-29-lightblue.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/medium/midi-29-pink.jpg" }
+        ]
+      }
+    ],
+    "big": [
+      {
+        "name": "Big Sized Bag - Model 1",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          { "color": "black", "image": "/images/bags/big/big-1-black.jpg" },
+          { "color": "blue", "image": "/images/bags/big/big-1-blue.jpg" },
+          { "color": "brown", "image": "/images/bags/big/big-1-brown.jpg" },
+          { "color": "carton", "image": "/images/bags/big/big-1-carton.jpg" },
+          { "color": "coffee", "image": "/images/bags/big/big-1-coffee.jpg" },
+          { "color": "wine", "image": "/images/bags/big/big-1-wine.jpg" }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 2",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          { "color": "brown", "image": "/images/bags/big/big-2-brown.jpg" },
+          { "color": "coffee", "image": "/images/bags/big/big-2-coffee.jpg" },
+          {
+            "color": "light-brown",
+            "image": "/images/bags/big/big-2-lightbrown.jpg"
+          },
+          { "color": "green", "image": "/images/bags/big/big-2-green.jpg" },
+          { "color": "black", "image": "/images/bags/big/big-2-black.jpg" }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 3",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          {
+            "color": "darkpink",
+            "image": "/images/bags/big/big-3-darkpink.jpg"
+          },
+          {
+            "color": "lightblue",
+            "image": "/images/bags/big/big-3-lightblue.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/big/big-3-pink.jpg" },
+          { "color": "white", "image": "/images/bags/big/big-3-white.jpg" },
+          { "color": "black", "image": "/images/bags/big/big-3-black.jpg" }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 4",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          { "color": "blue", "image": "/images/bags/big/big-4-blue.jpg" },
+          { "color": "brown", "image": "/images/bags/big/big-4-brown.jpg" }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 5",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          { "color": "black", "image": "/images/bags/big/big-5-black.jpg" },
+          { "color": "brown", "image": "/images/bags/big/big-5-brown.jpg" },
+          { "color": "white", "image": "/images/bags/big/big-5-white.jpg" }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 6",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          {
+            "color": "black&white",
+            "image": "/images/bags/big/big-6-black&white.jpg"
+          },
+          { "color": "black", "image": "/images/bags/big/big-6-black.jpg" },
+          { "color": "flowers", "image": "/images/bags/big/big-6-flowers.jpg" }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 7",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          { "color": "black", "image": "/images/bags/big/big-7-black.jpg" },
+          {
+            "color": "lightblue",
+            "image": "/images/bags/big/big-7-lightblue.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 8",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          { "color": "orange", "image": "/images/bags/big/big-8-orange.jpg" },
+          { "color": "blue", "image": "/images/bags/big/big-8-blue.jpg" },
+          { "color": "black", "image": "/images/bags/big/big-8-black.jpg" },
+          { "color": "nude", "image": "/images/bags/big/big-8-nude.jpg" }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 9",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          { "color": "brown", "image": "/images/bags/big/big-9-brown.jpg" },
+          { "color": "black", "image": "/images/bags/big/big-9-black.jpg" },
+          {
+            "color": "lightbrown",
+            "image": "/images/bags/big/big-9-lightbrown.jpg"
+          },
+          {
+            "color": "lightgray",
+            "image": "/images/bags/big/big-9-lightgray.jpg"
+          },
+          { "color": "nude", "image": "/images/bags/big/big-9-nude.jpg" },
+          { "color": "pink", "image": "/images/bags/big/big-9-pink.jpg" },
+          { "color": "white", "image": "/images/bags/big/big-9-white.jpg" }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 10",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          { "color": "blue", "image": "/images/bags/big/big-10-blue.jpg" },
+          { "color": "red", "image": "/images/bags/big/big-10-red.jpg" },
+          { "color": "black", "image": "/images/bags/big/big-10-black.jpg" },
+          { "color": "green", "image": "/images/bags/big/big-10-green.jpg" },
+          {
+            "color": "lightgray",
+            "image": "/images/bags/big/big-10-lightgray.jpg"
+          }
+        ]
+      }
+    ],
+    "3-in-1": [
+      {
+        "name": "3-in-1 Bags - Model 1",
+        "category": "bags",
+        "subcategory": "3-in-1",
+        "price": 18000,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/3-in-1/3-in-1-black-1.jpg"
+          },
+          { "color": "pink", "image": "/images/bags/3-in-1/3-in-1-pink-1.jpg" },
+          { "color": "wine", "image": "/images/bags/3-in-1/3-in-1-wine-1.jpg" }
+        ]
+      },
+      {
+        "name": "3-in-1 Bags - Model 2",
+        "category": "bags",
+        "subcategory": "3-in-1",
+        "price": 18000,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/3-in-1/3-in-1-black-2.jpg"
+          },
+          { "color": "blue", "image": "/images/bags/3-in-1/3-in-1-blue-2.jpg" },
+          {
+            "color": "brown",
+            "image": "/images/bags/3-in-1/3-in-1-brown-2.jpg"
+          },
+          {
+            "color": "light-brown",
+            "image": "/images/bags/3-in-1/3-in-1-brownyy-2.jpg"
+          },
+          {
+            "color": "carton",
+            "image": "/images/bags/3-in-1/3-in-1-carton-2.jpg"
+          },
+          { "color": "red", "image": "/images/bags/3-in-1/3-in-1-red-2.jpg" },
+          {
+            "color": "white",
+            "image": "/images/bags/3-in-1/3-in-1-white-2.jpg"
+          },
+          {
+            "color": "green",
+            "image": "/images/bags/3-in-1/3-in-1-green-2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "3-in-1 Bags - Model 3",
+        "category": "bags",
+        "subcategory": "3-in-1",
+        "price": 18000,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/3-in-1/3-in-1-blue-3.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/3-in-1/3-in-1-brown-3.jpg"
+          },
+          {
+            "color": "carton",
+            "image": "/images/bags/3-in-1/3-in-1-carton-3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "3-in-1 Bags - Model 4",
+        "category": "bags",
+        "subcategory": "3-in-1",
+        "price": 18000,
+        "variants": [
+          {
+            "color": "lightbrown",
+            "image": "/images/bags/3-in-1/3-in-1-green-4.jpg"
+          },
+          {
+            "color": "red",
+            "image": "/images/bags/3-in-1/3-in-1-red-4.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/3-in-1/3-in-1-brown-4.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/bags/3-in-1/3-in-1-black-4.jpg"
+          }
+        ]
+      }
+    ],
+    "2-in-1": [
+      {
+        "name": "2-in-1 Bags - Model 1",
+        "category": "bags",
+        "subcategory": "2-in-1",
+        "price": 13500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/2-in-1/2-in-1-black-1.jpg"
+          },
+          {
+            "color": "purple",
+            "image": "/images/bags/2-in-1/2-in-1-purple-1.jpg"
+          },
+          { "color": "red", "image": "/images/bags/2-in-1/2-in-1-red-1.jpg" },
+          {
+            "color": "lemon",
+            "image": "/images/bags/2-in-1/2-in-1-lemon-1.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/2-in-1/2-in-1-brown-1.jpg"
+          },
+          { "color": "blue", "image": "/images/bags/2-in-1/2-in-1-blue-1.jpg" }
+        ]
+      },
+      {
+        "name": "2-in-1 Bags - Model 2",
+        "category": "bags",
+        "subcategory": "2-in-1",
+        "price": 11000,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/2-in-1/2-in-1-black-2.jpg"
+          },
+          {
+            "color": "carton",
+            "image": "/images/bags/2-in-1/2-in-1-carton-2.jpg"
+          },
+          {
+            "color": "orange",
+            "image": "/images/bags/2-in-1/2-in-1-orange-2.jpg"
+          },
+          { "color": "red", "image": "/images/bags/2-in-1/2-in-1-red-2.jpg" }
+        ]
+      },
+      {
+        "name": "2-in-1 Bags - Model 3",
+        "category": "bags",
+        "subcategory": "2-in-1",
+        "price": 13500,
+        "variants": [
+          {
+            "color": "crimson",
+            "image": "/images/bags/2-in-1/2-in-1-crimson-3.jpg"
+          },
+          { "color": "red", "image": "/images/bags/2-in-1/2-in-1-red-3.jpg" },
+          {
+            "color": "white",
+            "image": "/images/bags/2-in-1/2-in-1-white-3.jpg"
+          },
+          {
+            "color": "carton",
+            "image": "/images/bags/2-in-1/2-in-1-carton-3.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/bags/2-in-1/2-in-1-black-3.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/bags/2-in-1/2-in-1-brown-3.jpg"
+          }
+        ]
+      },
+      {
+        "name": "2-in-1 Bags - Model 4",
+        "category": "bags",
+        "subcategory": "2-in-1",
+        "price": 13500,
+        "variants": [
+          { "color": "blue", "image": "/images/bags/2-in-1/2-in-1-blue-4.jpg" },
+          {
+            "color": "black",
+            "image": "/images/bags/2-in-1/2-in-1-black-4.jpg"
+          },
+          {
+            "color": "carton",
+            "image": "/images/bags/2-in-1/2-in-1-carton-4.jpg"
+          },
+          { "color": "red", "image": "/images/bags/2-in-1/2-in-1-red-4.jpg" }
+        ]
+      }
+    ]
+  },
+
+  "shoes": {
+    "flat": [
+      {
+        "name": "Flat Shoes - Model 1",
+        "category": "shoes",
+        "subcategory": "flat",
+        "price": 9500,
+        "variants": [
+          { "color": "black", "image": "/images/shoes/flat/flat-1-black.jpg" },
+          { "color": "brown", "image": "/images/shoes/flat/flat-1-brown.jpg" },
+          { "color": "silver", "image": "/images/shoes/flat/flat-1-silver.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Flat Shoes - Model 2",
+        "category": "shoes",
+        "subcategory": "flat",
+        "price": 9500,
+        "variants": [
+          { "color": "black", "image": "/images/shoes/flat/flat-2-black.jpg" },
+          { "color": "wine", "image": "/images/shoes/flat/flat-2-wine.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Flat Shoes - Model 3",
+        "category": "shoes",
+        "subcategory": "flat",
+        "price": 9500,
+        "variants": [
+          { "color": "black", "image": "/images/shoes/flat/flat-3-black.jpg" },
+          { "color": "brown", "image": "/images/shoes/flat/flat-3-brown.jpg" },
+          { "color": "cream", "image": "/images/shoes/flat/flat-3-cream.jpg" },
+          { "color": "white", "image": "/images/shoes/flat/flat-3-white.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Flat Shoes - Model 4",
+        "category": "shoes",
+        "subcategory": "flat",
+        "price": 9500,
+        "variants": [
+          { "color": "black", "image": "/images/shoes/flat/flat-4-black.jpg" },
+          {
+            "color": "orange",
+            "image": "/images/shoes/flat/flat-4-orange.jpg"
+          },
+          { "color": "pink", "image": "/images/shoes/flat/flat-4-pink.jpg" },
+          {
+            "color": "purple",
+            "image": "/images/shoes/flat/flat-4-purple.jpg"
+          },
+          { "color": "red", "image": "/images/shoes/flat/flat-4-red.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Flat Shoes - Model 5",
+        "category": "shoes",
+        "subcategory": "flat",
+        "price": 9500,
+        "variants": [
+          { "color": "brown", "image": "/images/shoes/flat/flat-5-brown.jpg" },
+          { "color": "white", "image": "/images/shoes/flat/flat-5-white.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Flat Shoes - Model 6",
+        "category": "shoes",
+        "subcategory": "flat",
+        "price": 9500,
+        "variants": [
+          { "color": "black", "image": "/images/shoes/flat/flat-6-black.jpg" },
+          { "color": "brown", "image": "/images/shoes/flat/flat-6-brown.jpg" },
+          { "color": "green", "image": "/images/shoes/flat/flat-6-green.jpg" },
+          { "color": "nude", "image": "/images/shoes/flat/flat-6-nude.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Flat Shoes - Model 7",
+        "category": "shoes",
+        "subcategory": "flat",
+        "price": 9500,
+        "variants": [
+          { "color": "gray", "image": "/images/shoes/flat/flat-7-gray.jpg" },
+          { "color": "black", "image": "/images/shoes/flat/flat-7-black.jpg" },
+          { "color": "pink", "image": "/images/shoes/flat/flat-7-pink.jpg" },
+          {
+            "color": "lightblue",
+            "image": "/images/shoes/flat/flat-7-lightblue.jpg"
+          },
+          { "color": "white", "image": "/images/shoes/flat/flat-7-white.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Flat Shoes - Model 8",
+        "category": "shoes",
+        "subcategory": "flat",
+        "price": 9500,
+        "variants": [
+          { "color": "brown", "image": "/images/shoes/flat/flat-8-brown.jpg" },
+          { "color": "black", "image": "/images/shoes/flat/flat-8-black.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Flat Shoes - Model 9",
+        "category": "shoes",
+        "subcategory": "flat",
+        "price": 9500,
+        "variants": [
+          { "color": "wine", "image": "/images/shoes/flat/flat-9-wine.jpg" },
+          { "color": "red", "image": "/images/shoes/flat/flat-9-red.jpg" },
+          { "color": "black", "image": "/images/shoes/flat/flat-9-black.jpg" },
+          {
+            "color": "carton",
+            "image": "/images/shoes/flat/flat-9-carton.jpg"
+          },
+          { "color": "gray", "image": "/images/shoes/flat/flat-9-gray.jpg" },
+          { "color": "nude", "image": "/images/shoes/flat/flat-9-nude.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      }
+    ],
+    "heels": [
+      {
+        "name": "Heels - Model 1",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-1-black.jpg"
+          },
+          {
+            "color": "lightbrown",
+            "image": "/images/shoes/heels/heels-1-lightbrown.jpg"
+          },
+          { "color": "white", "image": "/images/shoes/heels/heels-1-white.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 2",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-2-black.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/heels/heels-2-brown.jpg"
+          },
+          {
+            "color": "silver",
+            "image": "/images/shoes/heels/heels-2-silver.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 3",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-3-black.jpg"
+          },
+          {
+            "color": "white",
+            "image": "/images/shoes/heels/heels-3-white.jpg"
+          },
+          { "color": "wine", "image": "/images/shoes/heels/heels-3-wine.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 4",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-4-black.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/heels/heels-4-brown.jpg"
+          },
+          { "color": "gold", "image": "/images/shoes/heels/heels-4-gold.jpg" },
+          { "color": "wine", "image": "/images/shoes/heels/heels-4-wine.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 5",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-5-black.jpg"
+          },
+          { "color": "blue", "image": "/images/shoes/heels/heels-5-blue.jpg" },
+          {
+            "color": "green",
+            "image": "/images/shoes/heels/heels-5-green.jpg"
+          },
+          { "color": "pink", "image": "/images/shoes/heels/heels-5-pink.jpg" },
+          {
+            "color": "purple",
+            "image": "/images/shoes/heels/heels-5-purple.jpg"
+          },
+          { "color": "red", "image": "/images/shoes/heels/heels-5-red.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 6",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-6-black.jpg"
+          },
+          { "color": "gold", "image": "/images/shoes/heels/heels-6-gold.jpg" },
+          {
+            "color": "silver",
+            "image": "/images/shoes/heels/heels-6-silver.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 7",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-7-black.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/heels/heels-7-brown.jpg"
+          },
+          { "color": "gold", "image": "/images/shoes/heels/heels-7-gold.jpg" },
+          {
+            "color": "silver",
+            "image": "/images/shoes/heels/heels-7-silver.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 8",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          { "color": "pink", "image": "/images/shoes/heels/heels-8-pink.jpg" },
+          {
+            "color": "brown",
+            "image": "/images/shoes/heels/heels-8-brown.jpg"
+          },
+          {
+            "color": "lightpink",
+            "image": "/images/shoes/heels/heels-8-lightpink.jpg"
+          },
+          { "color": "nude", "image": "/images/shoes/heels/heels-8-nude.jpg" },
+          { "color": "red", "image": "/images/shoes/heels/heels-8-red.jpg" },
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-8-black.jpg"
+          },
+          { "color": "white", "image": "/images/shoes/heels/heels-8-white.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 9",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "white",
+            "image": "/images/shoes/heels/heels-9-white.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/heels/heels-9-brown.jpg"
+          },
+          { "color": "blue", "image": "/images/shoes/heels/heels-9-blue.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 10",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          { "color": "nude", "image": "/images/shoes/heels/heels-10-nude.jpg" },
+          {
+            "color": "brown",
+            "image": "/images/shoes/heels/heels-10-brown.jpg"
+          },
+          { "color": "blue", "image": "/images/shoes/heels/heels-10-blue.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 11",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "silver",
+            "image": "/images/shoes/heels/heels-11-silver.jpg"
+          },
+          { "color": "gold", "image": "/images/shoes/heels/heels-11-gold.jpg" },
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-11-black.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 12",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "green",
+            "image": "/images/shoes/heels/heels-12-green.jpg"
+          },
+          { "color": "nude", "image": "/images/shoes/heels/heels-12-nude.jpg" },
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-12-black.jpg"
+          },
+          {
+            "color": "white",
+            "image": "/images/shoes/heels/heels-12-white.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      }
+    ],
+    "lowcover": [
+      {
+        "name": "Low Cover Shoe 1",
+        "category": "shoes",
+        "subcategory": "lowcover",
+        "price": 11500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/shoes/lowcover/lowcover-1-black.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/lowcover/lowcover-1-brown.jpg"
+          },
+          {
+            "color": "lightpink",
+            "image": "/images/shoes/lowcover/lowcover-1-lightpink.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Low Cover Shoe 2",
+        "category": "shoes",
+        "subcategory": "lowcover",
+        "price": 11500,
+        "variants": [
+          {
+            "color": "gold",
+            "image": "/images/shoes/lowcover/lowcover-2-gold.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/lowcover/lowcover-2-brown.jpg"
+          },
+          {
+            "color": "cream",
+            "image": "/images/shoes/lowcover/lowcover-2-cream.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/lowcover/lowcover-2-black.jpg"
+          },
+          {
+            "color": "pink",
+            "image": "/images/shoes/lowcover/lowcover-2-pink.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Low Cover Shoe 3",
+        "category": "shoes",
+        "subcategory": "lowcover",
+        "price": 11500,
+        "variants": [
+          {
+            "color": "brown",
+            "image": "/images/shoes/lowcover/lowcover-3-brown.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/lowcover/lowcover-3-black.jpg"
+          },
+          {
+            "color": "blue",
+            "image": "/images/shoes/lowcover/lowcover-3-blue.jpg"
+          },
+          {
+            "color": "red",
+            "image": "/images/shoes/lowcover/lowcover-3-red.jpg"
+          },
+          {
+            "color": "silver",
+            "image": "/images/shoes/lowcover/lowcover-3-silver.jpg"
+          },
+          {
+            "color": "white",
+            "image": "/images/shoes/lowcover/lowcover-3-white.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      }
+    ],
+
+    "palm": [
+      {
+        "name": "Palm Shoe 1",
+        "category": "shoes",
+        "subcategory": "palm",
+        "price": 10500,
+        "variants": [
+          { "color": "black", "image": "/images/shoes/palm/palm-1-black.jpg" },
+          { "color": "brown", "image": "/images/shoes/palm/palm-1-brown.jpg" },
+          {
+            "color": "offwhite",
+            "image": "/images/shoes/palm/palm-1-offwhite.jpg"
+          },
+          { "color": "white", "image": "/images/shoes/palm/palm-1-white.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Palm Shoe 2",
+        "category": "shoes",
+        "subcategory": "palm",
+        "price": 10500,
+        "variants": [
+          { "color": "green", "image": "/images/shoes/palm/palm-2-green.jpg" },
+          { "color": "lemon", "image": "/images/shoes/palm/palm-2-lemon.jpg" },
+          { "color": "pink", "image": "/images/shoes/palm/palm-2-pink.jpg" },
+          { "color": "purple", "image": "/images/shoes/palm/palm-2-purple.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Palm Shoe 3",
+        "category": "shoes",
+        "subcategory": "palm",
+        "price": 10500,
+        "variants": [
+          { "color": "brown", "image": "/images/shoes/palm/palm-3-brown.jpg" },
+          { "color": "gold", "image": "/images/shoes/palm/palm-3-gold.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Palm Shoe 4",
+        "category": "shoes",
+        "subcategory": "palm",
+        "price": 9500,
+        "variants": [
+          { "color": "red", "image": "/images/shoes/palm/palm-4-red.jpg" },
+          {
+            "color": "yellow",
+            "image": "/images/shoes/palm/palm-4-yellow.jpg"
+          },
+          {
+            "color": "black&pink",
+            "image": "/images/shoes/palm/palm-4-black&pink.jpg"
+          },
+          { "color": "black", "image": "/images/shoes/palm/palm-4-black.jpg" },
+          {
+            "color": "lightpink",
+            "image": "/images/shoes/palm/palm-4-lightpink.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Palm Shoe 5",
+        "category": "shoes",
+        "subcategory": "palm",
+        "price": 10500,
+        "variants": [
+          {
+            "color": "black&animalskin",
+            "image": "/images/shoes/palm/palm-5-black&animalskin.jpg"
+          },
+          { "color": "black", "image": "/images/shoes/palm/palm-5-black.jpg" },
+          {
+            "color": "brown&animalskin",
+            "image": "/images/shoes/palm/palm-5-brown&animalskin.jpg"
+          },
+          { "color": "brown", "image": "/images/shoes/palm/palm-5-brown.jpg" },
+          {
+            "color": "coffee&white",
+            "image": "/images/shoes/palm/palm-5-coffee&white.jpg"
+          },
+          { "color": "white", "image": "/images/shoes/palm/palm-5-white.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      }
+    ],
+    "sandals": [
+      {
+        "name": "Sandals Shoe 1",
+        "category": "shoes",
+        "subcategory": "sandals",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "brown",
+            "image": "/images/shoes/sandals/sandals-1-brown.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/sandals/sandals-1-black.jpg"
+          },
+          {
+            "color": "white",
+            "image": "/images/shoes/sandals/sandals-1-white.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Sandals Shoe 2",
+        "category": "shoes",
+        "subcategory": "sandals",
+        "price": 9500,
+        "variants": [
+          {
+            "color": "blue",
+            "image": "/images/shoes/sandals/sandals-2-blue.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/sandals/sandals-2-brown.jpg"
+          },
+          {
+            "color": "gold",
+            "image": "/images/shoes/sandals/sandals-2-gold.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Sandals Shoe 3",
+        "category": "shoes",
+        "subcategory": "sandals",
+        "price": 10500,
+        "variants": [
+          {
+            "color": "cream",
+            "image": "/images/shoes/sandals/sandals-3-cream.jpg"
+          },
+          {
+            "color": "nude",
+            "image": "/images/shoes/sandals/sandals-3-nude.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/sandals/sandals-3-black.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Sandals Shoe 4",
+        "category": "shoes",
+        "subcategory": "sandals",
+        "price": 9500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/shoes/sandals/sandals-4-black.jpg"
+          },
+          {
+            "color": "blue",
+            "image": "/images/shoes/sandals/sandals-4-blue.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/sandals/sandals-4-brown.jpg"
+          },
+          {
+            "color": "nude",
+            "image": "/images/shoes/sandals/sandals-4-nude.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Sandals Shoe 5",
+        "category": "shoes",
+        "subcategory": "sandals",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "white",
+            "image": "/images/shoes/sandals/sandals-5-white.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/sandals/sandals-5-black.jpg"
+          },
+          {
+            "color": "blue",
+            "image": "/images/shoes/sandals/sandals-5-blue.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/sandals/sandals-5-brown.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Sandals Shoe 6",
+        "category": "shoes",
+        "subcategory": "sandals",
+        "price": 9500,
+        "variants": [
+          {
+            "color": "coffee",
+            "image": "/images/shoes/sandals/sandals-6-coffee.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/sandals/sandals-6-black.jpg"
+          },
+          {
+            "color": "white",
+            "image": "/images/shoes/sandals/sandals-6-white.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Sandals Shoe 7",
+        "category": "shoes",
+        "subcategory": "sandals",
+        "price": 9500,
+        "variants": [
+          {
+            "color": "brown",
+            "image": "/images/shoes/sandals/sandals-7-brown.jpg"
+          },
+          {
+            "color": "lightgold",
+            "image": "/images/shoes/sandals/sandals-7-lightgold.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/sandals/sandals-7-black.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      }
+    ],
+    "wedge": [
+      {
+        "name": "Wedge Shoe 1",
+        "category": "shoes",
+        "subcategory": "wedge",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "colored",
+            "image": "/images/shoes/wedge/wedge-1-colored.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/wedge/wedge-1-black.jpg"
+          },
+          { "color": "blue", "image": "/images/shoes/wedge/wedge-1-blue.jpg" },
+          { "color": "gold", "image": "/images/shoes/wedge/wedge-1-gold.jpg" },
+          { "color": "gray", "image": "/images/shoes/wedge/wedge-1-gray.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Wedge Shoe 2",
+        "category": "shoes",
+        "subcategory": "wedge",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "green",
+            "image": "/images/shoes/wedge/wedge-2-green.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/wedge/wedge-2-black.jpg"
+          },
+          { "color": "blue", "image": "/images/shoes/wedge/wedge-2-blue.jpg" },
+          {
+            "color": "orange",
+            "image": "/images/shoes/wedge/wedge-2-orange.jpg"
+          },
+          { "color": "red", "image": "/images/shoes/wedge/wedge-2-red.jpg" },
+          { "color": "pink", "image": "/images/shoes/wedge/wedge-2-pink.jpg" },
+          { "color": "white", "image": "/images/shoes/wedge/wedge-2-white.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Wedge Shoe 3",
+        "category": "shoes",
+        "subcategory": "wedge",
+        "price": 12500,
+        "variants": [
+          {
+            "color": "brownskin",
+            "image": "/images/shoes/wedge/wedge-3-brownskin.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/wedge/wedge-3-black.jpg"
+          },
+          {
+            "color": "lightbrown",
+            "image": "/images/shoes/wedge/wedge-3-lightbrown.jpg"
+          },
+          { "color": "white", "image": "/images/shoes/wedge/wedge-3-white.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      }
+    ]
+  },
+  "clothes": {
+    "abaya": [
+      {
+        "name": "Abaya - Model 1",
+        "category": "clothes",
+        "subcategory": "abaya",
+        "price": 22000,
+        "variants": [
+          {
+            "color": "gray",
+            "image": "/images/clothes/abaya/abaya-1-gray.jpg"
+          },
+          {
+            "color": "green",
+            "image": "/images/clothes/abaya/abaya-1-green.jpg"
+          },
+          { "color": "wine", "image": "/images/clothes/abaya/abaya-1-wine.jpg" }
+        ],
+        "sizes": ["small", "medium", "large", "xl", "xxl"]
+      },
+      {
+        "name": "Abaya - Model 2",
+        "category": "clothes",
+        "subcategory": "abaya",
+        "price": 22000,
+        "variants": [
+          {
+            "color": "purple",
+            "image": "/images/clothes/abaya/abaya-2-purple.jpg"
+          }
+        ],
+        "sizes": ["small", "medium", "large", "xl", "xxl"]
+      },
+      {
+        "name": "Abaya - Model 3",
+        "category": "clothes",
+        "subcategory": "abaya",
+        "price": 22000,
+        "variants": [
+          {
+            "color": "white",
+            "image": "/images/clothes/abaya/abaya-3-white.jpg"
+          },
+          {
+            "color": "black&brown",
+            "image": "/images/clothes/abaya/abaya-3-black&brown.jpg"
+          },
+          {
+            "color": "white&black",
+            "image": "/images/clothes/abaya/abaya-3-white&black.jpg"
+          }
+        ],
+        "sizes": ["small", "medium", "large", "xl", "xxl"]
+      },
+      {
+        "name": "Abaya - Model 4",
+        "category": "clothes",
+        "subcategory": "abaya",
+        "price": 22000,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/clothes/abaya/abaya-4-black.jpg"
+          },
+          {
+            "color": "blackstripe",
+            "image": "/images/clothes/abaya/abaya-4-blackstripe.jpg"
+          },
+          { "color": "wine", "image": "/images/clothes/abaya/abaya-4-wine.jpg" }
+        ],
+        "sizes": ["small", "medium", "large", "xl", "xxl"]
+      }
+    ],
+    "gown": [
+      {
+        "name": "Gown - Model 1",
+        "category": "clothes",
+        "subcategory": "gown",
+        "price": 14000,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/clothes/gown/gown-1-black.jpg"
+          },
+          { "color": "blue", "image": "/images/clothes/gown/gown-1-blue.jpg" },
+          {
+            "color": "green",
+            "image": "/images/clothes/gown/gown-1-green.jpg"
+          },
+          {
+            "color": "yellow",
+            "image": "/images/clothes/gown/gown-1-yellow.jpg"
+          }
+        ],
+        "sizes": [6, 8, 10, 12, 14, 16]
+      },
+      {
+        "name": "Gown - Model 2",
+        "category": "clothes",
+        "subcategory": "gown",
+        "price": 14000,
+        "variants": [
+          {
+            "color": "cover",
+            "image": "/images/clothes/gown/gown-2-cover.jpg"
+          },
+          { "color": "gray", "image": "/images/clothes/gown/gown-2-gray.jpg" },
+          {
+            "color": "black",
+            "image": "/images/clothes/gown/gown-2-black.jpg"
+          },
+          { "color": "white", "image": "/images/clothes/gown/gown-2-white.jpg" }
+        ],
+        "sizes": [6, 8, 10, 12, 14, 16]
+      }
+    ],
+    "jeans": [
+      {
+        "name": "Jean - Model 1",
+        "category": "clothes",
+        "subcategory": "jeans",
+        "price": 14000,
+        "variants": [
+          {
+            "color": "lightblue",
+            "image": "/images/clothes/jeans/jean-1-lightblue.jpg"
+          },
+          {
+            "color": "darkblue",
+            "image": "/images/clothes/jeans/jean-1-darkblue.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/clothes/jeans/jean-1-black.jpg"
+          }
+        ],
+        "sizes": [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+      },
+      {
+        "name": "Jean - Model 2",
+        "category": "clothes",
+        "subcategory": "jeans",
+        "price": 14000,
+        "variants": [
+          {
+            "color": "cover",
+            "image": "/images/clothes/jeans/jean-2-cover.jpg"
+          },
+          {
+            "color": "plain",
+            "image": "/images/clothes/jeans/jean-2-plain.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/clothes/jeans/jean-2-black.jpg"
+          }
+        ],
+        "sizes": [26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+      }
+    ],
+    "top": [
+      {
+        "name": "Top - Model 1",
+        "category": "clothes",
+        "subcategory": "top",
+        "price": 10500,
+        "variants": [
+          { "color": "blue", "image": "/images/clothes/top/top-1-blue.jpg" },
+          { "color": "green", "image": "/images/clothes/top/top-1-green.jpg" },
+          {
+            "color": "lightblue",
+            "image": "/images/clothes/top/top-1-lightblue.jpg"
+          },
+          { "color": "pink", "image": "/images/clothes/top/top-1-pink.jpg" },
+          { "color": "red", "image": "/images/clothes/top/top-1-red.jpg" }
+        ],
+        "sizes": ["medium", "large", "xl", "xxl"]
+      },
+      {
+        "name": "Top - Model 2",
+        "category": "clothes",
+        "subcategory": "top",
+        "price": 10500,
+        "variants": [
+          { "color": "wine", "image": "/images/clothes/top/top-2-wine.jpg" },
+          { "color": "black", "image": "/images/clothes/top/top-2-black.jpg" },
+          { "color": "blue", "image": "/images/clothes/top/top-2-blue.jpg" }
+        ],
+        "sizes": ["medium", "large", "xl", "xxl"]
+      },
+      {
+        "name": "Top - Model 3",
+        "category": "clothes",
+        "subcategory": "top",
+        "price": 10500,
+        "variants": [
+          { "color": "black", "image": "/images/clothes/top/top-3-black.jpg" },
+          {
+            "color": "lightblue",
+            "image": "/images/clothes/top/top-3-lightblue.jpg"
+          },
+          { "color": "wine", "image": "/images/clothes/top/top-3-wine.jpg" }
+        ],
+        "sizes": ["medium", "large", "xl", "xxl"]
+      }
+    ],
+    "two piece set": [
+      {
+        "name": "Two Piece Set - Model 1",
+        "category": "clothes",
+        "subcategory": "two-piece-set",
+        "price": 23000,
+        "variants": [
+          {
+            "color": "green",
+            "image": "/images/clothes/two-piece-set/twopiece-1-green.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/clothes/two-piece-set/twopiece-1-black.jpg"
+          },
+          {
+            "color": "yellow",
+            "image": "/images/clothes/two-piece-set/twopiece-1-yellow.jpg"
+          },
+          {
+            "color": "blue",
+            "image": "/images/clothes/two-piece-set/twopiece-1-blue.jpg"
+          }
+        ],
+        "sizes": ["small", "medium", "large", "xl", "xxl"]
+      },
+      {
+        "name": "Two Piece Set - Model 2",
+        "category": "clothes",
+        "subcategory": "two-piece-set",
+        "price": 25000,
+        "variants": [
+          {
+            "color": "pink",
+            "image": "/images/clothes/two-piece-set/twopiece-2-pink.jpg"
+          },
+          {
+            "color": "green",
+            "image": "/images/clothes/two-piece-set/twopiece-2-green.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/clothes/two-piece-set/twopiece-2-black.jpg"
+          }
+        ],
+        "sizes": ["small", "medium", "large", "xl", "xxl"]
+      },
+      {
+        "name": "Two Piece Set - Model 3",
+        "category": "clothes",
+        "subcategory": "two-piece-set",
+        "price": 23000,
+        "variants": [
+          {
+            "color": "navyblue",
+            "image": "/images/clothes/two-piece-set/twopiece-3-navyblue.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/clothes/two-piece-set/twopiece-3-black.jpg"
+          },
+          {
+            "color": "blue",
+            "image": "/images/clothes/two-piece-set/twopiece-3-blue.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/clothes/two-piece-set/twopiece-3-brown.jpg"
+          }
+        ],
+        "sizes": ["small", "medium", "large", "xl", "xxl"]
+      },
+      {
+        "name": "Two Piece Set - Model 4",
+        "category": "clothes",
+        "subcategory": "two-piece-set",
+        "price": 19000,
+        "variants": [
+          {
+            "color": "white",
+            "image": "/images/clothes/two-piece-set/twopiece-4-white.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/clothes/two-piece-set/twopiece-4-black.jpg"
+          },
+          {
+            "color": "lightbrown",
+            "image": "/images/clothes/two-piece-set/twopiece-4-lightbrown.jpg"
+          },
+          {
+            "color": "navyblue",
+            "image": "/images/clothes/two-piece-set/twopiece-4-navyblue.jpg"
+          }
+        ],
+        "sizes": ["small", "medium", "large", "xl", "xxl"]
+      }
+    ]
+  }
+}

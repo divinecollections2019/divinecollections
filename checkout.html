@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bags Shop - gtagDev</title>
+    <!-- phosphor-icons -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.2/src/regular/style.css"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- header -->
+    <header class="site-header">
+      <div class="logo">
+        <img src="logo.png" alt="Your Brand Logo" />
+      </div>
+
+      <div class="promo-banner">
+        <!-- Intro -->
+        <p class="intro">
+          At Divine Collections, we offer the best value for your money.
+        </p>
+
+        <!-- Sales alert -->
+        <div class="sales-alert">
+          <h2>🚨 EMBER SALES ALERT! 🚨</h2>
+          <div class="ticker">
+            <div class="ticker-content">
+              <p>🔥 15% DISCOUNT when you order 6 or more items 🔥</p>
+              <p>🚚 Free delivery nationwide on 10 or more orders 🚚</p>
+              <p>💯 100% Refund Policy — Shop with Confidence 💯</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="wrapper">
+      <main>
+        <div class="checkout-container">
+          <div class="checkout-header">
+            <h2>Checkout</h2>
+            <span class="tick">✔</span>
+          </div>
+          <p>
+            You're one step away from placing your order. Your order ID is
+            <strong id="orderId"></strong>
+          </p>
+
+          <table id="checkoutTable">
+            <thead>
+              <tr>
+                <th>Heading</th>
+                <th>Details</th>
+              </tr>
+            </thead>
+            <tbody id="checkoutBody">
+              <!-- Populated dynamically -->
+            </tbody>
+          </table>
+          <h3>Free delivery on 10 or more orders</h3>
+        </div>
+      </main>
+
+      <div class="sidebar">
+        <ul class="sidebar-icons">
+          <li class="sidebar-icon">
+            <a href="index.html" class="home">
+              <i class="ph ph-house"></i>
+              <span class="sidebar-icon-name">Home</span>
+            </a>
+          </li>
+
+          <li class="sidebar-icon">
+            <a href="#!" class="btn-toggle-cart-list">
+              <i class="ph ph-shopping-cart"></i>
+              <span class="cart-badge">0</span>
+              <span class="sidebar-icon-name">Cart</span>
+            </a>
+          </li>
+
+          <li class="sidebar-icon">
+            <a href="#!" class="bags">
+              <i class="ph ph-handbag"></i>
+              <span class="sidebar-icon-name">Handbags</span>
+            </a>
+          </li>
+
+          <li class="sidebar-icon">
+            <a href="#!" class="shoes">
+              <i class="ph ph-high-heel"></i>
+              <span class="sidebar-icon-name">Shoes</span>
+            </a>
+          </li>
+
+          <li class="sidebar-icon">
+            <a href="#!">
+              <i class="ph ph-dress"></i>
+              <span class="sidebar-icon-name">Clothes</span>
+            </a>
+          </li>
+
+          <li class="sidebar-icon">
+            <a href="#!" class="theme-toggle">
+              <i class="ph ph-moon"></i>
+              <span class="sidebar-icon-name">Switch to darkmode</span>
+            </a>
+          </li>
+
+          <li class="sidebar-icon">
+            <div class="sidebar-arrow">
+              <i class="ph ph-caret-double-left"></i>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="cart-product-list">
+      <h2>My Cart</h2>
+      <div class="list-of-product"></div>
+
+      <!-- Customer Info Form -->
+      <form class="customer-info">
+        <input
+          type="text"
+          id="cart-name"
+          name="name"
+          placeholder="Full Name"
+          required
+        />
+        <input
+          type="text"
+          id="cart-phone"
+          name="phone"
+          placeholder="Phone Number"
+          required
+        />
+        <textarea
+          name="address"
+          id="cart-address"
+          placeholder="Address"
+          required
+        ></textarea>
+        <select name="state" id="cart-state" required>
+          <option value="">Select State</option>
+          <option value="Abuja">Abuja</option>
+          <option value="Abia">Abia</option>
+          <option value="Adamawa">Adamawa</option>
+          <option value="Akwa Ibom">Akwa Ibom</option>
+          <option value="Anambra">Anambra</option>
+          <option value="Bauchi">Bauchi</option>
+          <option value="Bayelsa">Bayelsa</option>
+          <option value="Benue">Benue</option>
+          <option value="Borno">Borno</option>
+          <option value="Cross River">Cross River</option>
+          <option value="Delta">Delta</option>
+          <option value="Ebonyi">Ebonyi</option>
+          <option value="Edo">Edo</option>
+          <option value="Ekiti">Ekiti</option>
+          <option value="Enugu">Enugu</option>
+          <option value="Gombe">Gombe</option>
+          <option value="Imo">Imo</option>
+          <option value="Jigawa">Jigawa</option>
+          <option value="Kaduna">Kaduna</option>
+          <option value="Kano">Kano</option>
+          <option value="Katsina">Katsina</option>
+          <option value="Kebbi">Kebbi</option>
+          <option value="Kogi">Kogi</option>
+          <option value="Kwara">Kwara</option>
+          <option value="Lagos">Lagos</option>
+          <option value="Nasarawa">Nasarawa</option>
+          <option value="Niger">Niger</option>
+          <option value="Ogun">Ogun</option>
+          <option value="Ondo">Ondo</option>
+          <option value="Osun">Osun</option>
+          <option value="Oyo">Oyo</option>
+          <option value="Plateau">Plateau</option>
+          <option value="Rivers">Rivers</option>
+          <option value="Sokoto">Sokoto</option>
+          <option value="Taraba">Taraba</option>
+          <option value="Yobe">Yobe</option>
+          <option value="Zamfara">Zamfara</option>
+        </select>
+      </form>
+
+      <div class="calculate">
+        <h3 class="total-price"></h3>
+        <div class="cart-buttons">
+          <button class="btn-clear-cart">Clear Cart</button>
+          <a href="./checkout.html">
+            <button class="btn-checkout" disabled>Checkout</button>
+          </a>
+        </div>
+      </div>
+
+      <div class="icon-cart-close close">
+        <i class="ph ph-x"></i>
+      </div>
+      <div class="cart-error"></div>
+    </div>
+
+    <!-- footer -->
+    <footer class="site-footer">
+      <div class="footer-content">
+        <!-- Left: About -->
+        <div class="footer-about">
+          <h3>Divine Collections</h3>
+          <p>
+            Providing the best value for your money with quality collections.
+          </p>
+        </div>
+
+        <!-- Middle: Quick Links -->
+        <div class="footer-links">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="#">Trending Products</a></li>
+            <li><a href="#">Handbags</a></li>
+            <li><a href="#">Shoes</a></li>
+            <li><a href="#">Clothes</a></li>
+          </ul>
+        </div>
+
+        <!-- Right: Contact / Socials -->
+        <div class="footer-contact">
+          <h4>Get in Touch</h4>
+
+          <p class="address">
+            Shop 25, Inspectorate Rd,<br />
+            Isalu-Badagry 103242,<br />
+            Lagos, Nigeria
+          </p>
+
+          <div class="contact-icons">
+            <!-- Email -->
+            <a
+              href="mailto:divinecollections2019@gmail.com?subject=Inquiry&body=Hi Divine Collections, I want to make an inquiry."
+              class="contact-link"
+              title="Send us an Email"
+            >
+              <i class="ph ph-envelope"></i>
+            </a>
+
+            <!-- WhatsApp -->
+            <a
+              href="https://wa.me/2348164473941?text=Hi Divine Collections, I want to place an order."
+              target="_blank"
+              class="contact-link"
+              title="Chat on WhatsApp"
+            >
+              <i class="ph ph-whatsapp-logo"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Bottom -->
+      <div class="footer-bottom">
+        <p>
+          &copy; <span id="year"></span> Divine Collections. All rights
+          reserved.
+        </p>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
