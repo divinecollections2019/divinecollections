@@ -462,7 +462,7 @@ document.addEventListener("DOMContentLoaded", () => {
   ];
 
   // ✅ Always check free delivery first using checkoutData.items
-  if ((checkoutData.items?.length || 0) >= 10) {
+  if (totalQty >= 10) {
     deliveryFee = 0;
   } else if (lagos.includes(state)) {
     deliveryFee = 2500;
