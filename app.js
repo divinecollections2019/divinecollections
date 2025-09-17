@@ -91,8 +91,6 @@ function displayProducts(products) {
     }
 
     prevBtn.addEventListener("click", () => {
-      console.log("Prev clicked"); //debug
-
       if (currentVariant > 0) {
         currentVariant--;
         updateVariant();
@@ -100,7 +98,6 @@ function displayProducts(products) {
     });
 
     nextBtn.addEventListener("click", () => {
-      console.log("Next clicked"); //debug
       if (currentVariant < product.variants.length - 1) {
         currentVariant++;
         updateVariant();
