@@ -196,12 +196,14 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // ----------------- CART LOGIC -----------------
+const cartDisplay = document.querySelector(".cart-product-list");
 const cartList = document.querySelector(".list-of-product");
 const cartBadge = document.querySelector(".cart-badge");
 const totalPriceEl = document.querySelector(".total-price");
 const checkoutBtn = document.querySelector(".btn-checkout");
 const cartToggleBtn = document.querySelector(".btn-toggle-cart-list");
 const cartCloseBtn = document.querySelector(".icon-cart-close");
+const clearCartBtn = document.querySelector(".btn-clear-cart");
 
 let cartItems = JSON.parse(localStorage.getItem("cartItems")) || [];
 
@@ -325,11 +327,11 @@ function updateTotal() {
 // Toggle cart visibility
 cartToggleBtn?.addEventListener("click", (e) => {
   e.preventDefault();
-  document.querySelector(".cart-product-list").classList.toggle("open");
+  cartDisplay.classList.toggle("open");
 });
 
 // Clear cart button
-document.querySelector(".btn-clear-cart")?.addEventListener("click", () => {
+clearCartBtn?.addEventListener("click", () => {
   cartItems = [];
   renderCart();
   localStorage.setItem("cartItems", JSON.stringify(cartItems));
@@ -337,7 +339,19 @@ document.querySelector(".btn-clear-cart")?.addEventListener("click", () => {
 
 // Close cart
 cartCloseBtn?.addEventListener("click", () => {
-  document.querySelector(".cart-product-list").classList.remove("open");
+  cartDisplay.classList.remove("open");
+});
+
+// Close cart when clicking outside
+document.addEventListener("click", (e) => {
+  // Check if cart is open and the click is outside both the cart and the toggle button
+  if (
+    cartDisplay.classList.contains("open") &&
+    !cartDisplay.contains(e.target) &&
+    !cartToggleBtn.contains(e.target)
+  ) {
+    cartDisplay.classList.remove("open");
+  }
 });
 
 // Footer year
@@ -510,8 +524,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const message = `Hi, Divine Collections, my order ID is *${orderId}*.
 My name is *${userName}*.
-My address is *${userAddress}, ${userState}*.
-My total is ₦${amount.toLocaleString()} (including delivery).`;
+My address is *${userAddress}, ${userState}* and the sum of my order is ₦${amount.toLocaleString()} (including delivery).`;
 
   whatsappBtn.href = `https://wa.me/${phone}?text=${encodeURIComponent(
     message
