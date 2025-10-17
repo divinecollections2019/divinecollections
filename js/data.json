@@ -986,6 +986,52 @@
             "image": "/images/bags/big/big-11-cream.jpg"
           }
         ]
+      },
+      {
+        "name": "Big Sized Bag - Model 12",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          { "color": "ash", "image": "/images/bags/big/big-12-ash.jpg" },
+          { "color": "black", "image": "/images/bags/big/big-12-black.jpg" },
+          {
+            "color": "lightbrown",
+            "image": "/images/bags/big/big-12-lightbrown.jpg"
+          },
+          {
+            "color": "offwhite",
+            "image": "/images/bags/big/big-12-offwhite.jpg"
+          },
+          { "color": "red", "image": "/images/bags/big/big-12-red.jpg" }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 13",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          { "color": "black", "image": "/images/bags/big/big-13-black.jpg" },
+          { "color": "brown", "image": "/images/bags/big/big-13-brown.jpg" },
+          { "color": "red", "image": "/images/bags/big/big-13-red.jpg" }
+        ]
+      },
+      {
+        "name": "Big Sized Bag - Model 14",
+        "category": "bags",
+        "subcategory": "big",
+        "price": 11000,
+        "variants": [
+          {
+            "color": "offwhite",
+            "image": "/images/bags/big/big-14-offwhite.jpg"
+          },
+          { "color": "gold", "image": "/images/bags/big/big-14-gold.jpg" },
+          { "color": "black", "image": "/images/bags/big/big-14-black.jpg" },
+          { "color": "silver", "image": "/images/bags/big/big-14-silver.jpg" },
+          { "color": "white", "image": "/images/bags/big/big-14-white.jpg" }
+        ]
       }
     ],
     "3-in-1": [
@@ -1175,6 +1221,32 @@
             "image": "/images/bags/2-in-1/2-in-1-carton-4.jpg"
           },
           { "color": "red", "image": "/images/bags/2-in-1/2-in-1-red-4.jpg" }
+        ]
+      },
+      {
+        "name": "2-in-1 Bags - Model 5",
+        "category": "bags",
+        "subcategory": "2-in-1",
+        "price": 13500,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/bags/2-in-1/2-in-1-black-5.jpg"
+          },
+          { "color": "blue", "image": "/images/bags/2-in-1/2-in-1-blue-5.jpg" },
+          {
+            "color": "brown",
+            "image": "/images/bags/2-in-1/2-in-1-brown-5.jpg"
+          },
+          {
+            "color": "coffee",
+            "image": "/images/bags/2-in-1/2-in-1-coffee-5.jpg"
+          },
+          {
+            "color": "crimson",
+            "image": "/images/bags/2-in-1/2-in-1-crimson-5.jpg"
+          },
+          { "color": "red", "image": "/images/bags/2-in-1/2-in-1-red-5.jpg" }
         ]
       }
     ]
@@ -1618,6 +1690,41 @@
           }
         ],
         "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 16",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 12500,
+        "variants": [
+          { "color": "blue", "image": "/images/shoes/heels/heels-16-blue.jpg" },
+          { "color": "pink", "image": "/images/shoes/heels/heels-16-pink.jpg" },
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-16-black.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Heels - Model 17",
+        "category": "shoes",
+        "subcategory": "heels",
+        "price": 14500,
+        "variants": [
+          { "color": "red", "image": "/images/shoes/heels/heels-17-red.jpg" },
+          {
+            "color": "white",
+            "image": "/images/shoes/heels/heels-17-white.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/heels/heels-17-black.jpg"
+          },
+          { "color": "gold", "image": "/images/shoes/heels/heels-17-gold.jpg" },
+          { "color": "nude", "image": "/images/shoes/heels/heels-17-nude.jpg" }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
       }
     ],
     "lowcover": [
@@ -1841,6 +1948,30 @@
             "color": "red",
             "image": "/images/shoes/palm/palm-7-red.jpg"
           }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "Palm Shoe 8",
+        "category": "shoes",
+        "subcategory": "palm",
+        "price": 10500,
+        "variants": [
+          { "color": "brown", "image": "/images/shoes/palm/palm-8-brown.jpg" },
+          {
+            "color": "orange",
+            "image": "/images/shoes/palm/palm-8-orange.jpg"
+          },
+          { "color": "green", "image": "/images/shoes/palm/palm-8-green.jpg" },
+          { "color": "black", "image": "/images/shoes/palm/palm-8-black.jpg" },
+          { "color": "blue", "image": "/images/shoes/palm/palm-8-blue.jpg" },
+          { "color": "pink", "image": "/images/shoes/palm/palm-8-pink.jpg" },
+          { "color": "red", "image": "/images/shoes/palm/palm-8-red.jpg" },
+          {
+            "color": "purple",
+            "image": "/images/shoes/palm/palm-8-purple.jpg"
+          },
+          { "color": "white", "image": "/images/shoes/palm/palm-8-white.jpg" }
         ],
         "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
       }
@@ -2272,6 +2403,64 @@
           }
         ],
         "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "BB Combo 6",
+        "category": "shoes",
+        "subcategory": "bag and shoes",
+        "price": 23000,
+        "variants": [
+          {
+            "color": "black",
+            "image": "/images/shoes/bb-combo/bb-combo-6-black.jpg"
+          },
+          {
+            "color": "coffee",
+            "image": "/images/shoes/bb-combo/bb-combo-6-coffee.jpg"
+          },
+          {
+            "color": "cream",
+            "image": "/images/shoes/bb-combo/bb-combo-6-cream.jpg"
+          },
+          {
+            "color": "nudebrown",
+            "image": "/images/shoes/bb-combo/bb-combo-6-nude&brown.jpg"
+          },
+          {
+            "color": "wine",
+            "image": "/images/shoes/bb-combo/bb-combo-6-wine.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "BB Combo 7",
+        "category": "shoes",
+        "subcategory": "bag and shoes",
+        "price": 23000,
+        "variants": [
+          {
+            "color": "silver",
+            "image": "/images/shoes/bb-combo/bb-combo-7-silver.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/bb-combo/bb-combo-7-brown.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/bb-combo/bb-combo-7-black.jpg"
+          },
+          {
+            "color": "red",
+            "image": "/images/shoes/bb-combo/bb-combo-7-red.jpg"
+          },
+          {
+            "color": "green",
+            "image": "/images/shoes/bb-combo/bb-combo-7-green.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
       }
     ],
     "tn-combo": [
@@ -2314,6 +2503,35 @@
           {
             "color": "black",
             "image": "/images/shoes/tn-combo/tn-combo-3-black.jpg"
+          }
+        ],
+        "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+      },
+      {
+        "name": "TN Combo 4",
+        "category": "shoes",
+        "subcategory": "bag and shoes",
+        "price": 25000,
+        "variants": [
+          {
+            "color": "coffee",
+            "image": "/images/shoes/tn-combo/tn-combo-4-coffee.jpg"
+          },
+          {
+            "color": "nude",
+            "image": "/images/shoes/tn-combo/tn-combo-4-nude.jpg"
+          },
+          {
+            "color": "brown",
+            "image": "/images/shoes/tn-combo/tn-combo-4-brown.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/shoes/tn-combo/tn-combo-4-black.jpg"
+          },
+          {
+            "color": "red",
+            "image": "/images/shoes/tn-combo/tn-combo-4-red.jpg"
           }
         ],
         "sizes": [32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
@@ -2494,6 +2712,28 @@
           {
             "color": "pink",
             "image": "/images/clothes/abaya/abaya-5-pink.jpg"
+          }
+        ],
+        "sizes": ["small", "medium", "large", "xl", "xxl"]
+      },
+      {
+        "name": "Abaya - Model 6",
+        "category": "clothes",
+        "subcategory": "abaya",
+        "price": 18000,
+        "variants": [
+          {
+            "color": "blue",
+            "image": "/images/clothes/abaya/abaya-6-blue.jpg"
+          },
+          { "color": "red", "image": "/images/clothes/abaya/abaya-6-red.jpg" },
+          {
+            "color": "brown",
+            "image": "/images/clothes/abaya/abaya-6-brown.jpg"
+          },
+          {
+            "color": "black",
+            "image": "/images/clothes/abaya/abaya-6-black.jpg"
           }
         ],
         "sizes": ["small", "medium", "large", "xl", "xxl"]
